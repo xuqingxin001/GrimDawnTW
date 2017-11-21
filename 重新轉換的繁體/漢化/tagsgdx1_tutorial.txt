@@ -3,15 +3,15 @@
 
 #Tutorial Pages
 
-tagGDX1TutorialTip65Title=幻化师
-tagGDX1TutorialTip65TextA=幻化师可以转化你的装备的外观，使用你之前得到的相似装备的外观替换掉现有的外观。幻化外观的目录将在所有角色之间共享。 (普通模式和专家模式间不可共享).
-tagGDX1TutorialTip65SubtitleA=改变外观
-tagGDX1TutorialTip65TextB=要改变一件物品的外观，选择右边的装备栏位，然后再选择左边希望得到的新外观。选择到了满意的外观效果之后，点击应用幻化按钮并支付相应数目的铁币就能让你的装备外形焕然一新!
-tagGDX1TutorialTip65SubtitleB=重置外观
-tagGDX1TutorialTip65TextC=要将一见物品恢复至原有外观，只需要右键点击该装备所属的装备栏位便可以在其现有的外观和原有外观之间转换。点击应用幻化按钮就可以确认改变外观.
-tagGDX1TutorialTip65TextD=应用装备本身的外观是不需要花费任何铁币的.
+tagGDX1TutorialTip65Title=幻化師
+tagGDX1TutorialTip65TextA=幻化師可以轉化你的裝備的外觀，使用你之前得到的相似裝備的外觀替換掉現有的外觀。幻化外觀的目錄將在所有角色之間共享。 (普通模式和專家模式間不可共享).
+tagGDX1TutorialTip65SubtitleA=改變外觀
+tagGDX1TutorialTip65TextB=要改變一件物品的外觀，選擇右邊的裝備欄位，然后再選擇左邊希望得到的新外觀。選擇到了滿意的外觀效果之后，點擊應用幻化按鈕并支付相應數目的鐵幣就能讓你的裝備外形煥然一新!
+tagGDX1TutorialTip65SubtitleB=重置外觀
+tagGDX1TutorialTip65TextC=要將一見物品恢復至原有外觀，只需要右鍵點擊該裝備所屬的裝備欄位便可以在其現有的外觀和原有外觀之間轉換。點擊應用幻化按鈕就可以確認改變外觀.
+tagGDX1TutorialTip65TextD=應用裝備本身的外觀是不需要花費任何鐵幣的.
 
 
 #Quick Tips
 
-tagGDX1QuickTip65={^z}幻化师{^-}{^n}{^n}幻化师可以转化你的装备的外观，使用你之前得到的相似装备的外观替换掉现有的外观.
+tagGDX1QuickTip65={^z}幻化師{^-}{^n}{^n}幻化師可以轉化你的裝備的外觀，使用你之前得到的相似裝備的外觀替換掉現有的外觀.

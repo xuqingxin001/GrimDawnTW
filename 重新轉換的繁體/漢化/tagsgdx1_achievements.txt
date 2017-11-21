@@ -1,146 +1,146 @@
 # Achievement Groups
 
-achGDX1Group1=马尔茅斯的灰烬
+achGDX1Group1=馬爾茅斯的灰燼
 
 # Achievements
 
-achGDX1001Title=战斗仍在继续
-achGDX1001Desc=清除伯尔维治北方的虚灵屏障。
+achGDX1001Title=戰斗仍在繼續
+achGDX1001Desc=清除伯爾維治北方的虛靈屏障。
 
-achGDX1002Title=新的友谊
-achGDX1002Desc=选择与巴罗霍尔姆的人民保持友好。
+achGDX1002Title=新的友誼
+achGDX1002Desc=選擇與巴羅霍爾姆的人民保持友好。
 
-achGDX1003Title=新的敌人
-achGDX1003Desc=选择与巴罗霍尔姆的人民保持敌对。
+achGDX1003Title=新的敵人
+achGDX1003Desc=選擇與巴羅霍爾姆的人民保持敵對。
 
-achGDX1004Title=进入虚空
-achGDX1004Desc=激活莱托什祭坛。
+achGDX1004Title=進入虛空
+achGDX1004Desc=激活萊托什祭壇。
 
 achGDX1005Title=是你，我的朋友
-achGDX1005Desc=说服老朋友你站在他这一边。
+achGDX1005Desc=說服老朋友你站在他這一邊。
 
-achGDX1006Title=友好的争吵
-achGDX1006Desc=教训一下老朋友。
+achGDX1006Title=友好的爭吵
+achGDX1006Desc=教訓一下老朋友。
 
-achGDX1007Title=为了马尔茅斯
-achGDX1007Desc=在钢盖区夺回马尔茅斯反抗军基地。
+achGDX1007Title=為了馬爾茅斯
+achGDX1007Desc=在鋼蓋區奪回馬爾茅斯反抗軍基地。
 
-achGDX1008Title=百年传说
-achGDX1008Desc=达到等级 100。
+achGDX1008Title=百年傳說
+achGDX1008Desc=達到等級 100。
 
 achGDX1009Title=一神百年
-achGDX1009Desc=在专家模式达到等级 100。
+achGDX1009Desc=在專家模式達到等級 100。
 
 achGDX1010Title=黑暗之刺
-achGDX1010Desc=击杀虚空边缘的艾柯特祖尔，黑暗先驱。
+achGDX1010Desc=擊殺虛空邊緣的艾柯特祖爾，黑暗先驅。
 
-achGDX1011Title=黑暗的尽头
-achGDX1011Desc=在终极难度的虚空边缘击杀艾柯特祖尔，黑暗先驱。
+achGDX1011Title=黑暗的盡頭
+achGDX1011Desc=在終極難度的虛空邊緣擊殺艾柯特祖爾，黑暗先驅。
 
-achGDX1012Title=敲门 敲门
-achGDX1012Desc=在马尔茅斯桥击杀博拉格，守门人。
+achGDX1012Title=敲門 敲門
+achGDX1012Desc=在馬爾茅斯橋擊殺博拉格，守門人。
 
 achGDX1013Title=不速之客
-achGDX1013Desc=在终极难度的马尔茅斯桥击杀博拉格，守门人。
+achGDX1013Desc=在終極難度的馬爾茅斯橋擊殺博拉格，守門人。
 
-achGDX1014Title=这样别人才能成长
-achGDX1014Desc=在丛林击杀希尔瓦莉亚。
+achGDX1014Title=這樣別人才能成長
+achGDX1014Desc=在叢林擊殺希爾瓦莉亞。
 
-achGDX1015Title=杂草杀手
-achGDX1015Desc=在终极难度的丛林击杀希尔瓦莉亚。
+achGDX1015Title=雜草殺手
+achGDX1015Desc=在終極難度的叢林擊殺希爾瓦莉亞。
 
 achGDX1016Title=又是你
-achGDX1016Desc=在血肉工厂击杀血肉塑造者克里格。
+achGDX1016Desc=在血肉工廠擊殺血肉塑造者克里格。
 
-achGDX1017Title=还记得我吗？
-achGDX1017Desc=在终极难度的血肉工厂击杀血肉塑造者克里格。
+achGDX1017Title=還記得我嗎？
+achGDX1017Desc=在終極難度的血肉工廠擊殺血肉塑造者克里格。
 
-achGDX1018Title=与我无关
-achGDX1018Desc=与缠住你的虚灵算账。
+achGDX1018Title=與我無關
+achGDX1018Desc=與纏住你的虛靈算賬。
 
-achGDX1019Title=我是自己命运的主宰
-achGDX1019Desc=在终极难度与缠住你的虚灵算账。
+achGDX1019Title=我是自己命運的主宰
+achGDX1019Desc=在終極難度與纏住你的虛靈算賬。
 
 achGDX1020Title=粉碎大山
-achGDX1020Desc=在马尔茅斯下水道击杀加拉克洛斯，大山。
+achGDX1020Desc=在馬爾茅斯下水道擊殺加拉克洛斯，大山。
 
-achGDX1021Title=大山杀手
-achGDX1021Desc=在终极难度的马尔茅斯下水道击杀加拉克洛斯，大山。
+achGDX1021Title=大山殺手
+achGDX1021Desc=在終極難度的馬爾茅斯下水道擊殺加拉克洛斯，大山。
 
-achGDX1022Title=马尔茅斯的苦难
-achGDX1022Desc=在血肉密室击杀西奥丁·马塞尔，血肉塑造者。
+achGDX1022Title=馬爾茅斯的苦難
+achGDX1022Desc=在血肉密室擊殺西奧丁·馬塞爾，血肉塑造者。
 
-achGDX1023Title=为倒下的人复仇
-achGDX1023Desc=在终极难度的血肉密室击杀西奥丁·马塞尔，血肉塑造者。
+achGDX1023Title=為倒下的人復仇
+achGDX1023Desc=在終極難度的血肉密室擊殺西奧丁·馬塞爾，血肉塑造者。
 
-achGDX1024Title=掠夺
-achGDX1024Desc=击败一次掠夺者，温迪戈之魂的化身。
+achGDX1024Title=掠奪
+achGDX1024Desc=擊敗一次掠奪者，溫迪戈之魂的化身。
 
-achGDX1025Title=泥中的宝石
-achGDX1025Desc=巴罗霍尔姆的声望达到崇敬。
+achGDX1025Title=泥中的寶石
+achGDX1025Desc=巴羅霍爾姆的聲望達到崇敬。
 
-achGDX1026Title=巫登沼泽仪式
-achGDX1026Desc=巫登沼泽女巫团的声望达到崇敬。
+achGDX1026Title=巫登沼澤儀式
+achGDX1026Desc=巫登沼澤女巫團的聲望達到崇敬。
 
 achGDX1027Title=人民英雄
-achGDX1027Desc=马尔茅斯反抗军的声望达到崇敬。
+achGDX1027Desc=馬爾茅斯反抗軍的聲望達到崇敬。
 
-achGDX1028Title=崇敬冠军
-achGDX1028Desc=与9个派系关系达到崇敬。
+achGDX1028Title=崇敬冠軍
+achGDX1028Desc=與9個派系關系達到崇敬。
 
-achGDX1029Title=马尔茅斯保卫者
-achGDX1029Desc=完成马尔茅斯的灰烬。
+achGDX1029Title=馬爾茅斯保衛者
+achGDX1029Desc=完成馬爾茅斯的灰燼。
 
-achGDX1030Title=马尔茅斯冠军
-achGDX1030Desc=精英难度完成马尔茅斯的灰烬。
+achGDX1030Title=馬爾茅斯冠軍
+achGDX1030Desc=精英難度完成馬爾茅斯的灰燼。
 
-achGDX1031Title=马尔茅斯救世主
-achGDX1031Desc=终极难度完成马尔茅斯的灰烬。
+achGDX1031Title=馬爾茅斯救世主
+achGDX1031Desc=終極難度完成馬爾茅斯的灰燼。
 
-achGDX1032Title=大规模灭绝
-achGDX1032Desc=清除凯恩世界的750000只怪物。
+achGDX1032Title=大規模滅絕
+achGDX1032Desc=清除凱恩世界的750000只怪物。
 
-achGDX1033Title=无双杀手
-achGDX1033Desc=消灭 2000 只精英怪物 (带有星形标记)。
+achGDX1033Title=無雙殺手
+achGDX1033Desc=消滅 2000 只精英怪物 (帶有星形標記)。
 
-achGDX1034Title=疯狂的藏匿
-achGDX1034Desc=找到伊旺达神秘的藏匿物。
+achGDX1034Title=瘋狂的藏匿
+achGDX1034Desc=找到伊旺達神秘的藏匿物。
 
-achGDX1035Title=报仇？我看更像是报酬。
-achGDX1035Desc=精英或者终极难度击杀10只复仇级怪物。(名称为红色)。
+achGDX1035Title=報仇？我看更像是報酬。
+achGDX1035Desc=精英或者終極難度擊殺10只復仇級怪物。(名稱為紅色)。
 
-achGDX1036Title=宠物囤积者
-achGDX1036Desc=同时召唤出18只宠物。
+achGDX1036Title=寵物囤積者
+achGDX1036Desc=同時召喚出18只寵物。
 
-achGDX1037Title=灰烬虔诚
-achGDX1037Desc=修复55座神龛。
+achGDX1037Title=灰燼虔誠
+achGDX1037Desc=修復55座神龕。
 
-achGDX1038Title=杰出的探险家
-achGDX1038Desc=打开25个一次性宝箱。
+achGDX1038Title=杰出的探險家
+achGDX1038Desc=打開25個一次性寶箱。
 
-achGDX1039Title=博学士
-achGDX1039Desc=收集70条学识记录。
+achGDX1039Title=博學士
+achGDX1039Desc=收集70條學識記錄。
 
-achGDX1040Title=不朽的马尔茅斯救世主
-achGDX1040Desc=专家模式终极难度完成马尔茅斯的灰烬。
+achGDX1040Title=不朽的馬爾茅斯救世主
+achGDX1040Desc=專家模式終極難度完成馬爾茅斯的灰燼。
 
-achGDX1041Title=鲜血试练
-achGDX1041Desc=在远古树林的鲜血试练中活下来。
+achGDX1041Title=鮮血試練
+achGDX1041Desc=在遠古樹林的鮮血試練中活下來。
 
-achGDX1042Title=野性驯化
-achGDX1042Desc=在远古树林击杀加尔加伯·野性之心。
+achGDX1042Title=野性馴化
+achGDX1042Desc=在遠古樹林擊殺加爾加伯·野性之心。
 
-achGDX1043Title=驯服未驯服的
-achGDX1043Desc=在终极难度的远古树林击杀加尔加伯·野性之心。
+achGDX1043Title=馴服未馴服的
+achGDX1043Desc=在終極難度的遠古樹林擊殺加爾加伯·野性之心。
 
-achGDX1044Title=不朽的野性驯化
-achGDX1044Desc=在专家模式终极难度的远古树林击杀加尔加伯·野性之心。
+achGDX1044Title=不朽的野性馴化
+achGDX1044Desc=在專家模式終極難度的遠古樹林擊殺加爾加伯·野性之心。
 
-achGDX1045Title=远古巫登沼泽
-achGDX1045Desc=击杀克拉瓦尔·远古之水。
+achGDX1045Title=遠古巫登沼澤
+achGDX1045Desc=擊殺克拉瓦爾·遠古之水。
 
-achGDX1046Title=神话杀手
-achGDX1046Desc=在终极难度击杀克拉瓦尔·远古之水。
+achGDX1046Title=神話殺手
+achGDX1046Desc=在終極難度擊殺克拉瓦爾·遠古之水。
 
 achGDX1047Title=
 achGDX1047Desc=
